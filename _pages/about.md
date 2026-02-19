@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Data Analyst & Machine Learning Intern @ Osource Global | Research Assistant @ AUS
 
 profile:
   align: right
