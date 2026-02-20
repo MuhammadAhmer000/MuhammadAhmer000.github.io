@@ -3,11 +3,8 @@ cv:
   label: Computer Science Graduate
   email: muahmer534@gmail.com
   location: Dubai, United Arab Emirates
-  image: ""
-  summary: >
-    Computer Science graduate with a minor in Data Science, experienced in Python, R, and machine learning for data analysis and predictive modeling.
-    Completed internships and research projects delivering measurable results on real-world datasets. Seeking entry-level ML/data science roles to apply analytics skills
-    and contribute to data-driven solutions.
+  image: " "
+  summary: "Computer Science graduate with a minor in Data Science, experienced in Python, R, and machine learning for data analysis and predictive modeling. Completed internships and research projects delivering measurable results on real-world datasets. Seeking entry-level ML/data science roles."
 
   social_networks:
     - network: LinkedIn
@@ -16,10 +13,10 @@ cv:
       username: MuhammadAhmer000
 
   address:
-    street: ""
+    street: " "
     city: Dubai
-    region: ""
-    postalCode: ""
+    region: " "
+    postalCode: " "
     countryCode: AE
 
   sections:
@@ -35,25 +32,6 @@ cv:
           - Magna Cum Laude
           - Honors: Eta Kappa Nu (IEEE-HKN), Tau Beta Pi (TBP) Inductee
           - Relevant Coursework: Machine Learning & Data Mining (CMP466) A, Foundations of Statistics for Data Science (STA301) A, Artificial Intelligence (CMP333) A-, Linear Algebra (MTH221) A, Senior Capstone (CMP491) A-
-
-    Internships:
-      - company: Osource Global
-        position: Data Analysis & Machine Learning Intern
-        location: Sharjah, UAE
-        start_date: 2026-01
-        end_date: Present
-        highlights:
-          - Developed automated payroll validation and anomaly detection system, improving financial record accuracy by 30%.
-          - Applied Python, pandas, and ML techniques for predictive modeling; designed data cleaning workflows and visualizations for data-driven decisions.
-
-      - company: Osource Global
-        position: Software Development and Machine Learning Intern
-        location: Sharjah, UAE
-        start_date: 2023-07
-        end_date: 2023-08
-        highlights:
-          - Developed Python software to manage accounts payable/receivable discrepancies in Excel files.
-          - Implemented ML module to automatically detect anomalous data; designed user-friendly GUI for analysis and reporting.
 
     Experience:
       - company: American University of Sharjah
@@ -80,6 +58,25 @@ cv:
         end_date: 2025-05
         highlights:
           - Graded homework and provided feedback; managed submissions and grade uploads efficiently.
+
+    Internships:
+      - company: Osource Global
+        position: Data Analysis & Machine Learning Intern
+        location: Sharjah, UAE
+        start_date: 2026-01
+        end_date: Present
+        highlights:
+          - Developed automated payroll validation and anomaly detection system, improving financial record accuracy by 30%.
+          - Applied Python, pandas, and ML techniques for predictive modeling; designed data cleaning workflows and visualizations for data-driven decisions.
+
+      - company: Osource Global
+        position: Software Development and Machine Learning Intern
+        location: Sharjah, UAE
+        start_date: 2023-07
+        end_date: 2023-08
+        highlights:
+          - Developed Python software to manage accounts payable/receivable discrepancies in Excel files.
+          - Implemented ML module to automatically detect anomalous data; designed user-friendly GUI for analysis and reporting.
 
     Projects:
       - name: Genetic Algorithm-Based EV Charging Station Optimizer
@@ -151,4 +148,4 @@ cv:
 
     References:
       - name: Available upon request
-        reference: ""
+        reference: " "
