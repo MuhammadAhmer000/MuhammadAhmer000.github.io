@@ -1,151 +1,151 @@
 cv:
-  name: Muhammad Ahmer
-  label: Computer Science Graduate
-  email: muahmer534@gmail.com
-  location: Dubai, United Arab Emirates
+  name: "Muhammad Ahmer"
+  label: "Computer Science Graduate"
+  email: "muahmer534@gmail.com"
+  location: "Dubai, United Arab Emirates"
   image: " "
   summary: "Computer Science graduate with a minor in Data Science, experienced in Python, R, and machine learning for data analysis and predictive modeling. Completed internships and research projects delivering measurable results on real-world datasets. Seeking entry-level ML/data science roles."
 
   social_networks:
-    - network: LinkedIn
-      username: muhammad-ahmer-
-    - network: GitHub
-      username: MuhammadAhmer000
+    - network: "LinkedIn"
+      username: "muhammad-ahmer-"
+    - network: "GitHub"
+      username: "MuhammadAhmer000"
 
   address:
     street: " "
-    city: Dubai
+    city: "Dubai"
     region: " "
     postalCode: " "
-    countryCode: AE
+    countryCode: "AE"
 
   sections:
     Education:
-      - institution: American University of Sharjah
-        location: Sharjah, UAE
-        area: Computer Science
-        studyType: Bachelor
+      - institution: "American University of Sharjah"
+        location: "Sharjah, UAE"
+        area: "Computer Science"
+        studyType: "Bachelor"
         start_date: 2020
         end_date: 2025
-        score: 3.70/4.00
+        score: "3.70/4.00"
         highlights:
-          - Magna Cum Laude
-          - Honors: Eta Kappa Nu (IEEE-HKN), Tau Beta Pi (TBP) Inductee
-          - Relevant Coursework: Machine Learning & Data Mining (CMP466) A, Foundations of Statistics for Data Science (STA301) A, Artificial Intelligence (CMP333) A-, Linear Algebra (MTH221) A, Senior Capstone (CMP491) A-
+          - "Magna Cum Laude"
+          - "Honors: Eta Kappa Nu (IEEE-HKN), Tau Beta Pi (TBP) Inductee"
+          - "Relevant Coursework: Machine Learning & Data Mining (CMP466) A, Foundations of Statistics for Data Science (STA301) A, Artificial Intelligence (CMP333) A-, Linear Algebra (MTH221) A, Senior Capstone (CMP491) A-"
 
     Experience:
-      - company: American University of Sharjah
-        position: Undergraduate Research Assistant, Department of Statistics
-        location: Sharjah, UAE
+      - company: "American University of Sharjah"
+        position: "Undergraduate Research Assistant, Department of Statistics"
+        location: "Sharjah, UAE"
         start_date: 2025-07
-        end_date: Present
+        end_date: "Present"
         highlights:
-          - Conducted statistical analysis and predictive modeling on financial datasets, including web scraping, data cleaning, and visualization.
-          - Preparing findings for high-impact journals (targeting Q1 publications).
+          - "Conducted statistical analysis and predictive modeling on financial datasets, including web scraping, data cleaning, and visualization."
+          - "Preparing findings for high-impact journals (targeting Q1 publications)."
 
-      - company: American University of Sharjah
-        position: Undergraduate Research Assistant, Department of Computer Science
-        location: Sharjah, UAE
+      - company: "American University of Sharjah"
+        position: "Undergraduate Research Assistant, Department of Computer Science"
+        location: "Sharjah, UAE"
         start_date: 2022-03
         end_date: 2022-08
         highlights:
-          - Processed and analyzed 3D motion tracking data using Python, Excel, and Jupyter Notebook for experimental research.
+          - "Processed and analyzed 3D motion tracking data using Python, Excel, and Jupyter Notebook for experimental research."
 
-      - company: American University of Sharjah
-        position: Undergraduate Course Grader (AI & Machine Learning)
-        location: Sharjah, UAE
+      - company: "American University of Sharjah"
+        position: "Undergraduate Course Grader (AI & Machine Learning)"
+        location: "Sharjah, UAE"
         start_date: 2023-08
         end_date: 2025-05
         highlights:
-          - Graded homework and provided feedback; managed submissions and grade uploads efficiently.
+          - "Graded homework and provided feedback; managed submissions and grade uploads efficiently."
 
     Internships:
-      - company: Osource Global
-        position: Data Analysis & Machine Learning Intern
-        location: Sharjah, UAE
+      - company: "Osource Global"
+        position: "Data Analysis & Machine Learning Intern"
+        location: "Sharjah, UAE"
         start_date: 2026-01
-        end_date: Present
+        end_date: "Present"
         highlights:
-          - Developed automated payroll validation and anomaly detection system, improving financial record accuracy by 30%.
-          - Applied Python, pandas, and ML techniques for predictive modeling; designed data cleaning workflows and visualizations for data-driven decisions.
+          - "Developed automated payroll validation and anomaly detection system, improving financial record accuracy by 30%."
+          - "Applied Python, pandas, and ML techniques for predictive modeling; designed data cleaning workflows and visualizations for data-driven decisions."
 
-      - company: Osource Global
-        position: Software Development and Machine Learning Intern
-        location: Sharjah, UAE
+      - company: "Osource Global"
+        position: "Software Development and Machine Learning Intern"
+        location: "Sharjah, UAE"
         start_date: 2023-07
         end_date: 2023-08
         highlights:
-          - Developed Python software to manage accounts payable/receivable discrepancies in Excel files.
-          - Implemented ML module to automatically detect anomalous data; designed user-friendly GUI for analysis and reporting.
+          - "Developed Python software to manage accounts payable/receivable discrepancies in Excel files."
+          - "Implemented ML module to automatically detect anomalous data; designed user-friendly GUI for analysis and reporting."
 
     Projects:
-      - name: Genetic Algorithm-Based EV Charging Station Optimizer
-        summary: Designed a Python-based GA to optimize EV charging station locations in UAE.
+      - name: "Genetic Algorithm-Based EV Charging Station Optimizer"
+        summary: "Designed a Python-based GA to optimize EV charging station locations in UAE."
         highlights:
-          - Optimized charging station locations for efficiency and accessibility.
+          - "Optimized charging station locations for efficiency and accessibility."
 
-      - name: ML-Based Classification & Analysis of Pediatric Appendicitis
-        summary: Applied supervised learning in Python on pediatric appendicitis dataset.
+      - name: "ML-Based Classification & Analysis of Pediatric Appendicitis"
+        summary: "Applied supervised learning in Python on pediatric appendicitis dataset."
         highlights:
-          - Enhanced decision tree classifier; reduced overfitting; achieved 85% test accuracy.
+          - "Enhanced decision tree classifier; reduced overfitting; achieved 85% test accuracy."
 
-      - name: Uber vs. Lyft Statistical Analysis Project
-        summary: Conducted R-based visualization, regression, and ML analysis on ride-sharing datasets.
+      - name: "Uber vs. Lyft Statistical Analysis Project"
+        summary: "Conducted R-based visualization, regression, and ML analysis on ride-sharing datasets."
         highlights:
-          - Highlighted key patterns in pricing and fare type; led to research assistant offer.
+          - "Highlighted key patterns in pricing and fare type; led to research assistant offer."
 
-      - name: ML-Based Android Malware Hybrid Detection
-        summary: Enhanced Android malware detection using hybrid ML techniques.
+      - name: "ML-Based Android Malware Hybrid Detection"
+        summary: "Enhanced Android malware detection using hybrid ML techniques."
         highlights:
-          - Achieved 0.7% higher accuracy than prior dataset benchmarks via PCA-based feature selection and hyperparameter optimization.
+          - "Achieved 0.7% higher accuracy than prior dataset benchmarks via PCA-based feature selection and hyperparameter optimization."
 
     Publications:
-      - title: Balancing Ethics and Support: Peer Tutors Experiences with AI Tools in Student Writing
+      - title: "Balancing Ethics and Support: Peer Tutors’ Experiences with AI Tools in Student Writing"
         authors:
-          - Eleftheriou, M.
-          - Ahmer, M.
-          - Fredrick, D.
-        publisher: Contemporary Educational Technology
+          - "Eleftheriou, M."
+          - "Ahmer, M."
+          - "Fredrick, D."
+        publisher: "Contemporary Educational Technology"
         releaseDate: 2025
-        summary: Study on peer tutors' use of AI tools and ethical considerations in student writing.
+        summary: "Study on peer tutors' use of AI tools and ethical considerations in student writing."
 
-      - title: From Brainstorming to Boundaries: Writing Center Tutors Use of Generative AI
+      - title: "From Brainstorming to Boundaries: Writing Center Tutors’ Use of Generative AI"
         authors:
-          - Eleftheriou, M.
-          - Ahmer, M.
-        publisher: Journal of Language Teaching and Research
+          - "Eleftheriou, M."
+          - "Ahmer, M."
+        publisher: "Journal of Language Teaching and Research"
         releaseDate: 2026
-        summary: Tentatively accepted; explores generative AI usage by writing center tutors.
+        summary: "Tentatively accepted; explores generative AI usage by writing center tutors."
 
     Awards:
-      - title: Dean’s List
-        date: 2020-2024
-        summary: Recognized for academic excellence in multiple semesters.
+      - title: "Dean’s List"
+        date: "2020-2024"
+        summary: "Recognized for academic excellence in multiple semesters."
 
-      - title: Chancellor’s List
-        date: 2022-2025
-        summary: Awarded for exceptional academic performance.
+      - title: "Chancellor’s List"
+        date: "2022-2025"
+        summary: "Awarded for exceptional academic performance."
 
-      - title: Petrofac Scholarship Recipient
-        date: 2023-2024
-        summary: Scholarship awarded for outstanding academic achievement.
+      - title: "Petrofac Scholarship Recipient"
+        date: "2023-2024"
+        summary: "Scholarship awarded for outstanding academic achievement."
 
     Skills:
-      - name: Programming Languages
-        keywords: Python, R, C++, MATLAB, Bash/Shell
-      - name: Machine Learning & Data Analysis
-        keywords: pandas, NumPy, scikit-learn
-      - name: Databases
-        keywords: SQL, Notion Database
-      - name: Tools & Visualization
-        keywords: Jupyter Notebook, Excel, Git, Tableau
+      - name: "Programming Languages"
+        keywords: "Python, R, C++, MATLAB, Bash/Shell"
+      - name: "Machine Learning & Data Analysis"
+        keywords: "pandas, NumPy, scikit-learn"
+      - name: "Databases"
+        keywords: "SQL, Notion Database"
+      - name: "Tools & Visualization"
+        keywords: "Jupyter Notebook, Excel, Git, Tableau"
 
     Languages:
-      - name: English
-        summary: Fluent
-      - name: Urdu
-        summary: Native speaker
+      - name: "English"
+        summary: "Fluent"
+      - name: "Urdu"
+        summary: "Native speaker"
 
     References:
-      - name: Available upon request
+      - name: "Available upon request"
         reference: " "
